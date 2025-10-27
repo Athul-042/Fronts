@@ -1,0 +1,18 @@
+# Ignore dependency and build folders
+node_modules
+dist
+build
+.Dockerfile
+.dockerignore
+# Ignore git-related files
+.git
+.gitignore
+
+# Ignore local environment files
+.env
+*.log
+
+# Ignore IDE/editor settings
+.vscode
+.idea
+.DS_Store
